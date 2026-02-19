@@ -183,18 +183,9 @@ We encourage you to review this policy periodically.
 
 ---
 
-## 14. Contact Us
 
-If you have any questions, concerns, or feedback regarding this Privacy Policy, please contact us:
 
-**Email:** privacy@sassyswipe.com  
-**Developer:** SassySwipe Team
-
-> Please replace the email address above with your actual contact email before submitting to the Play Store.
-
----
-
-## 15. Disclaimer
+## 14. Disclaimer
 
 SassySwipe is an exercise and entertainment application. It is not a medical device and does not provide medical advice. Consult a healthcare professional before beginning any exercise routine if you have concerns about your physical health.
 
